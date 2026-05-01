@@ -1,0 +1,22 @@
+:root {
+    --sl-sidebar-width: 18rem;
+    --sl-content-width: 55rem;
+}
+
+/* Allow images to sit inline with text */
+.sl-markdown-content img {
+    display: inline;
+    vertical-align: middle;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent: #c62127;
+  --sl-color-accent-high: #8c1720;
+  --sl-color-accent-low: #e05a5f;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent: #c62127;
+  --sl-color-accent-high: #e05a5f;
+  --sl-color-accent-low: #8c1720;
+}

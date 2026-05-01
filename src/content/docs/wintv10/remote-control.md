@@ -8,23 +8,23 @@ sidebar:
 
 Some WinTV models include a remote control. Please select your remote control.
 
-| ![](/images/wintv10/image77.jpg) | ![](/images/wintv10/image88.jpg) | ![](/images/wintv10/image67.jpg) | ![](/images/wintv10/image75.jpg) |
+| ![](/hcwdocs/images/wintv10/image77.jpg) | ![](/hcwdocs/images/wintv10/image88.jpg) | ![](/hcwdocs/images/wintv10/image67.jpg) | ![](/hcwdocs/images/wintv10/image75.jpg) |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
 | [Hauppauge 45 button Model](#hauppauge-45-button-model) | [Media Center Model](#media-center-model) | [Credit Card Size Model 1](#credit-card-size-model-1) | [Credit Card Size Model 2](#credit-card-size-model-2) |
 
 ### Remote Control Tray Icon
 
-![](/images/wintv10/image69.png)
+![](/hcwdocs/images/wintv10/image69.png)
 
 In order for the remote control to work, a **WinTV Remote Controller** application is installed during the WinTV 10 installation. This application needs to be running in the system tray in order for the remote control to work.
 
-If the icon is not running, you can restart it by clicking on the Windows Start button <img src="/images/wintv10/image76.png" alt="" /> <img src="/images/wintv10/image73.jpg" alt="" /> **Start button**. Then navigate to **Hauppauge WinTV** programs folder, and click on **Restart IR**.
+If the icon is not running, you can restart it by clicking on the Windows Start button <img src="/hcwdocs/images/wintv10/image76.png" alt="" /> <img src="/hcwdocs/images/wintv10/image73.jpg" alt="" /> **Start button**. Then navigate to **Hauppauge WinTV** programs folder, and click on **Restart IR**.
 
 ---
 
 ### Hauppauge 45 Button Model
 
-![Hauppauge 45 Button Remote Control](/images/wintv10/image72.jpg)
+![Hauppauge 45 Button Remote Control](/hcwdocs/images/wintv10/image72.jpg)
 
 | Button | Function |
 |--------|----------|
@@ -45,14 +45,14 @@ If the icon is not running, you can restart it by clicking on the Windows Start 
 | Prev.Ch | Select last channel |
 | Mute | Mute / unmute audio |
 | Ch | Change channel |
-| ![](/images/wintv10/image15.png) | Start recording |
-| ![](/images/wintv10/image36.png) | Stop recording / Exit Live TV |
-| ![](/images/wintv10/image71.png) | Skip back 30 seconds |
-| ![](/images/wintv10/image65.png) | Continue Live TV or play back |
-| ![](/images/wintv10/image22.png) | Skip forward 30 seconds |
-| ![](/images/wintv10/image14.png) | Skip back 60 seconds |
-| ![](/images/wintv10/image18.png) | Pause Live TV |
-| ![](/images/wintv10/image46.png) | Skip forward 60 seconds |
+| ![](/hcwdocs/images/wintv10/image15.png) | Start recording |
+| ![](/hcwdocs/images/wintv10/image36.png) | Stop recording / Exit Live TV |
+| ![](/hcwdocs/images/wintv10/image71.png) | Skip back 30 seconds |
+| ![](/hcwdocs/images/wintv10/image65.png) | Continue Live TV or play back |
+| ![](/hcwdocs/images/wintv10/image22.png) | Skip forward 30 seconds |
+| ![](/hcwdocs/images/wintv10/image14.png) | Skip back 60 seconds |
+| ![](/hcwdocs/images/wintv10/image18.png) | Pause Live TV |
+| ![](/hcwdocs/images/wintv10/image46.png) | Skip forward 60 seconds |
 | 0 - 9 | Enter channel preset number |
 | * (Text) | Display teletext (if available) |
 | # (Sub/CC) | Display subtitles (if available) |
@@ -65,20 +65,20 @@ If the icon is not running, you can restart it by clicking on the Windows Start 
 
 ### Media Center Model
 
-![Media Center Remote Control](/images/wintv10/image87.jpg)
+![Media Center Remote Control](/hcwdocs/images/wintv10/image87.jpg)
 
 | Button | Function |
 |--------|----------|
 | Power | Exit WinTV / Start Windows Media Center |
-| ![](/images/wintv10/image15.png) | Start recording |
-| ![](/images/wintv10/image18.png) | Pause Live TV |
-| ![](/images/wintv10/image36.png) | Stop recording / Exit Live TV mode |
-| ![](/images/wintv10/image71.png) | Skip back 30 seconds |
-| ![](/images/wintv10/image65.png) | Continue Live TV or play back |
-| ![](/images/wintv10/image22.png) | Skip forward 30 seconds |
-| ![](/images/wintv10/image14.png) | Skip back 60 seconds |
-| ![](/images/wintv10/image46.png) | Skip forward 60 seconds |
-| ![](/images/wintv10/image26.png) | Exit full screen mode / Close channel list |
+| ![](/hcwdocs/images/wintv10/image15.png) | Start recording |
+| ![](/hcwdocs/images/wintv10/image18.png) | Pause Live TV |
+| ![](/hcwdocs/images/wintv10/image36.png) | Stop recording / Exit Live TV mode |
+| ![](/hcwdocs/images/wintv10/image71.png) | Skip back 30 seconds |
+| ![](/hcwdocs/images/wintv10/image65.png) | Continue Live TV or play back |
+| ![](/hcwdocs/images/wintv10/image22.png) | Skip forward 30 seconds |
+| ![](/hcwdocs/images/wintv10/image14.png) | Skip back 60 seconds |
+| ![](/hcwdocs/images/wintv10/image46.png) | Skip forward 60 seconds |
+| ![](/hcwdocs/images/wintv10/image26.png) | Exit full screen mode / Close channel list |
 | i | Open channel list |
 | Arrow left / right | Change audio volume / Teletext: select next / previous subpage |
 | Arrow up / down | Change channel / Teletext: select next / previous page |
@@ -105,7 +105,7 @@ If the icon is not running, you can restart it by clicking on the Windows Start 
 
 ### Credit Card Size Model 1
 
-![Credit Card Size Remote Control 1](/images/wintv10/image43.jpg)
+![Credit Card Size Remote Control 1](/hcwdocs/images/wintv10/image43.jpg)
 
 | Button | Function |
 |--------|----------|
@@ -116,14 +116,14 @@ If the icon is not running, you can restart it by clicking on the Windows Start 
 | Arrow left / right | Change audio volume / Teletext: select next / previous subpage |
 | Arrow up / down | Change channel / Teletext: select next / previous page |
 | OK | Confirm selection (in channel list) |
-| ![](/images/wintv10/image14.png) | Skip back 60 seconds |
-| ![](/images/wintv10/image46.png) | Skip forward 60 seconds |
-| ![](/images/wintv10/image15.png) | Start recording |
-| ![](/images/wintv10/image36.png) | Stop recording / Exit Live TV mode |
-| ![](/images/wintv10/image18.png) | Pause Live TV |
-| ![](/images/wintv10/image65.png) | Continue Live TV or play back |
-| ![](/images/wintv10/image71.png) | Skip back 30 seconds |
-| ![](/images/wintv10/image22.png) | Skip forward 30 seconds |
+| ![](/hcwdocs/images/wintv10/image14.png) | Skip back 60 seconds |
+| ![](/hcwdocs/images/wintv10/image46.png) | Skip forward 60 seconds |
+| ![](/hcwdocs/images/wintv10/image15.png) | Start recording |
+| ![](/hcwdocs/images/wintv10/image36.png) | Stop recording / Exit Live TV mode |
+| ![](/hcwdocs/images/wintv10/image18.png) | Pause Live TV |
+| ![](/hcwdocs/images/wintv10/image65.png) | Continue Live TV or play back |
+| ![](/hcwdocs/images/wintv10/image71.png) | Skip back 30 seconds |
+| ![](/hcwdocs/images/wintv10/image22.png) | Skip forward 30 seconds |
 | 0 - 9 | Enter channel preset number |
 | Chan+ / Chan- | Change channel |
 | Vol+ / Vol- | Change audio volume |
@@ -136,7 +136,7 @@ If the icon is not running, you can restart it by clicking on the Windows Start 
 
 ### Credit Card Size Model 2
 
-![Credit Card Size Remote Control 2](/images/wintv10/image92.jpg)
+![Credit Card Size Remote Control 2](/hcwdocs/images/wintv10/image92.jpg)
 
 | Button | Function |
 |--------|----------|
@@ -155,11 +155,13 @@ If the icon is not running, you can restart it by clicking on the Windows Start 
 | 0 - 9 | Enter channel preset number |
 | Text | Display teletext (if available) |
 | CC | Display subtitles (if available) |
-| ![](/images/wintv10/image36.png) | Stop recording / Exit Live TV mode |
-| ![](/images/wintv10/image15.png) | Start recording |
-| ![](/images/wintv10/image14.png) | Skip back 60 seconds |
-| ![](/images/wintv10/image46.png) | Skip forward 60 seconds |
-| ![](/images/wintv10/image71.png) | Skip back 30 seconds |
-| ![](/images/wintv10/image18.png) | Pause Live TV |
-| ![](/images/wintv10/image65.png) | Continue Live TV or play back |
-| ![](/images/wintv10/image22.png) | Skip forward 30 seconds |
+| ![](/hcwdocs/images/wintv10/image36.png) | Stop recording / Exit Live TV mode |
+| ![](/hcwdocs/images/wintv10/image15.png) | Start recording |
+| ![](/hcwdocs/images/wintv10/image14.png) | Skip back 60 seconds |
+| ![](/hcwdocs/images/wintv10/image46.png) | Skip forward 60 seconds |
+| ![](/hcwdocs/images/wintv10/image71.png) | Skip back 30 seconds |
+| ![](/hcwdocs/images/wintv10/image18.png) | Pause Live TV |
+| ![](/hcwdocs/images/wintv10/image65.png) | Continue Live TV or play back |
+| ![](/hcwdocs/images/wintv10/image22.png) | Skip forward 30 seconds |
+
+

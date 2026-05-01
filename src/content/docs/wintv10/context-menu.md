@@ -8,11 +8,11 @@ sidebar:
 
 To bring up the Context Menu Options, click your **right** mouse button inside the TV window.
 
-You can also click the context menu button ![](/images/wintv10/image61.png) at the bottom of the WinTV main window.
+You can also click the context menu button ![](/hcwdocs/images/wintv10/image61.png) at the bottom of the WinTV main window.
 
  
 
-![](/images/wintv10/context_menu.PNG)
+![](/hcwdocs/images/wintv10/context_menu.PNG)
 
 The following Context Menu options are available:
 
@@ -26,17 +26,17 @@ Click to start Live TV.
 
 ### Option "Find Channel"
 
-![](/images/wintv10/image79.jpg)
+![](/hcwdocs/images/wintv10/image79.jpg)
 
 Shows the channel list. Click on a channel entry to select this channel for watching. To filter the channel list, you can type in a channel name (or a part of the name).\
-The button with three dots ![](/images/wintv10/image64.png) opens the dialog to manage your favorites.\
-Click on the Pin-Button ![](/images/wintv10/image57.png) to permanently show the channel list.
+The button with three dots ![](/hcwdocs/images/wintv10/image64.png) opens the dialog to manage your favorites.\
+Click on the Pin-Button ![](/hcwdocs/images/wintv10/image57.png) to permanently show the channel list.
 
 The channel list will also be displayed if you enter any character (a - z) in live TV mode.
 
 ### Option "Picture in Picture
 
-![](/images/wintv10/image52.jpg)\<
+![](/hcwdocs/images/wintv10/image52.jpg)\<
 
 Picture in Picture is only available on products that have multiple tuners.
 
@@ -99,3 +99,5 @@ This will open this help manual
 ### Option "Exit"
 
 This will close the WinTV Application.
+
+

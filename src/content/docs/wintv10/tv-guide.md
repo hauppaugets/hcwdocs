@@ -10,7 +10,7 @@ WinTV 10 introduces a TV Guide available only for over-the-air ATSC signals.
 
 The **TV Guide** can be open from the [Context Menu](#context-menu)
 
-![](/images/wintv10/image41.jpg)
+![](/hcwdocs/images/wintv10/image41.jpg)
 
 ### Updating EPG
 
@@ -20,13 +20,13 @@ But you can also click on **Update EPG** to update all channels.
 
 You will get an estimated amount of time until the EPG finishes updating. You can close the TV Guide window during this time. The update will continue in the background.
 
-![](/images/wintv10/image44.jpg)
+![](/hcwdocs/images/wintv10/image44.jpg)
 
 ### TV Guide Options
 
 Once it has finish updating the EPG you should have a much filled EPG
 
-![](/images/wintv10/image30.jpg)
+![](/hcwdocs/images/wintv10/image30.jpg)
 
 The TV Guide window has the following additional options.
 
@@ -40,13 +40,13 @@ The TV Guide window has the following additional options.
 
 A new feature in WinTV10 is the ability to season record TV show using the TV Guide.
 
-![](/images/wintv10/image40.jpg)
+![](/hcwdocs/images/wintv10/image40.jpg)
 
 Clicking on a TV show on the guide will bring up information about the program. It will also allow you to click **Back** to return to the TV guide. You can click **Record** to scheduled a regular recording. You can also click on **Season Record** to scheduled all recordings for the program in the future. This is usefull if you like to record your favorite TV show and if time changes it will self adjust.
 
 Once a show is scheduled to be recorded, it will show a red higlight around it.
 
-![](/images/wintv10/image39.jpg)
+![](/hcwdocs/images/wintv10/image39.jpg)
 
 ## WinTV Scheduler
 
@@ -54,13 +54,13 @@ Select **Scheduler** from the Options Menu, to open the scheduler window.
 
 The Scheduler allows you to record a TV program at a certain date and time on a specified channel. It will list all scheduled recordings that have been set.
 
-![](/images/wintv10/image37.jpg)
+![](/hcwdocs/images/wintv10/image37.jpg)
 
 From here you can manually **Add**, **Edit** a previous scheduled recording or **Cancel** a recording.
 
 To schedule a recording, click on the **Add** button. You will need to set the following information:
 
-![](/images/wintv10/image32.jpg)
+![](/hcwdocs/images/wintv10/image32.jpg)
 
 **Name**: The file name of your recording task. If you keep the name *Default*, the recording will use the name of the TV channel.
 
@@ -96,9 +96,9 @@ To schedule a recording, click on the **Add** button. You will need to set the f
 
 The options will change depending on which recurrence you select
 
-![](/images/wintv10/image35.jpg)\
+![](/hcwdocs/images/wintv10/image35.jpg)\
 
-![](/images/wintv10/image56.jpg)
+![](/hcwdocs/images/wintv10/image56.jpg)
 
 **Start Date**: Select the start date for the recording.
 
@@ -116,7 +116,7 @@ The WinTV application does not have to be running for a Scheduled Recording to w
 
 When a recording takes place, this is indicated by a red TV icon in the system tray.
 
-![](/images/wintv10/image38.jpg)
+![](/hcwdocs/images/wintv10/image38.jpg)
 
 Right click on this icon to see the following options:\
  
@@ -133,7 +133,7 @@ Select **Recordings** from the Options Menu, to open the recordings window.
 
 The Recordings menu allows you see what has been recorded.
 
-![](/images/wintv10/image45.jpg)
+![](/hcwdocs/images/wintv10/image45.jpg)
 
 **Watch** will let you watch a recording through WinTV 10.
 
@@ -153,13 +153,13 @@ TitanTV can make it easier to add scheduling recordings to WinTV Scheduler.
 
 When WinTV 10 is installed the following shortcut icon is placed on the desktop.
 
-![](/images/wintv10/image47.png)
+![](/hcwdocs/images/wintv10/image47.png)
 
 You can double click it to go to the TitanTV website or manually type on your browser [http://www.titantv.com](http://www.titantv.com)
 
 Under **Channel Lineup** you can select your provider or click **Add** to add your provider lineup.
 
-![](/images/wintv10/image66.png)
+![](/hcwdocs/images/wintv10/image66.png)
 
 No account is required with TitanTV, but you can make a free one so it remembers your preferences
 
@@ -167,11 +167,11 @@ No account is required with TitanTV, but you can make a free one so it remembers
 
 To schedule a recordings with TitanTV, click on a TV show upcoming and on the window that opens click on **Record**.
 
-![](/images/wintv10/image80.png)
+![](/hcwdocs/images/wintv10/image80.png)
 
 The TV show selected will be added to the WinTV Scheduler.
 
-![](/images/wintv10/image70.png)
+![](/hcwdocs/images/wintv10/image70.png)
 
 ***Note**: In order to schedule a recording the channel number in the TitanTV must correspond to a channel in the WinTV 10 channel list. For example if you want to record WNBC and the channel number in TitanTV is 702 then you must edit the channels number in WinTV. All QAM channels are in the 2xxx range. All ATSC channels are in the 1xxx range.*
 
@@ -181,12 +181,14 @@ When record is clicked a file ‘program.tvpi’ needs to be opened by our WinTV
 
 **Internet Explorer**: Internet Explorer will ask you on the bottom, please click **Open**.
 
-![](/images/wintv10/image84.png)
+![](/hcwdocs/images/wintv10/image84.png)
 
 **Mozilla Firefox**: Firefox will ask you in a window, please make sure **Open with** is selected and click **OK**.
 
-![](/images/wintv10/image86.png)
+![](/hcwdocs/images/wintv10/image86.png)
 
 **Google Chrome**: Goggle Chrome automatically saves the file. Please click the file on the bottom left corner to open.
 
-![](/images/wintv10/image83.png)
+![](/hcwdocs/images/wintv10/image83.png)
+
+

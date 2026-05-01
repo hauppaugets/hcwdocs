@@ -26,7 +26,7 @@ Be aware that the yellow RCA composite and S-Video connectors do not carry audio
 
 ## Configuring the Video Inputs in Software
 
-![](/images/wintv10/image8.jpg)
+![](/hcwdocs/images/wintv10/image8.jpg)
 
 **Country**: Select the country.
 
@@ -36,7 +36,7 @@ Be aware that the yellow RCA composite and S-Video connectors do not carry audio
 
 **A/V Cable Set Installed**: If checked you can a secondary video source to an internal auxiliary A/V adapter if available and installed.
 
-![](/images/wintv10/image17.jpg)
+![](/hcwdocs/images/wintv10/image17.jpg)
 
 Click **Next** to finish the configuration. This adds the selected video inputs as "Composite" or "S-Video" channels to the channel list.
 
@@ -54,7 +54,7 @@ To view the signal from your video source in the main WinTV window, select the c
 
 Before scanning you should make sure that your FM radio antenna is connected to the 'FM' connector of your WinTV product.
 
-![](/images/wintv10/image1.jpg)
+![](/hcwdocs/images/wintv10/image1.jpg)
 
 **Country**: Select your country.
 
@@ -64,7 +64,7 @@ Click **Next**.
 
 ## Automatic Scan
 
-![](/images/wintv10/image7.jpg)
+![](/hcwdocs/images/wintv10/image7.jpg)
 
 As FM radio channels are found, they will appear in the Channel box. When complete, click **Next** to save the channels to the database.
 
@@ -72,7 +72,7 @@ As FM radio channels are found, they will appear in the Channel box. When comple
 
 If you know the local FM radio frequencies, you can also enter them manually.
 
-![](/images/wintv10/image10.jpg)
+![](/hcwdocs/images/wintv10/image10.jpg)
 
 Enter the frequency into the field "Frequency". Alternative you can increase / decrease the frequency in 0.1 MHz steps using the arrows. You can also enter a name into the field "Name". Click on **Add** to add the station.
 
@@ -86,7 +86,7 @@ When finished, click **Next** to save the channels to the database.
 
 The following is the typical Device Setup Wizard for both the HD PVR 2 and Colossus 2.
 
-![](/images/wintv10/image24.jpg)
+![](/hcwdocs/images/wintv10/image24.jpg)
 
 Below are brief explanations of each setup and what they are good for.
 
@@ -96,7 +96,7 @@ Below are brief explanations of each setup and what they are good for.
 
 If you have a cable box or satellite box you can select **Set Top Box**.
 
-![](/images/wintv10/image53.jpg)
+![](/hcwdocs/images/wintv10/image53.jpg)
 
 **Video Input**: Select between HDMI, Component, or Composite
 
@@ -118,7 +118,7 @@ Note that HDMI on most set top boxes is an encrypted signal and we won't be able
 
 Select **Game Console** if you have a PS4, Xbox One, Xbox 360, Nintendo Switch or Wii U.
 
-![](/images/wintv10/image63.jpg)
+![](/hcwdocs/images/wintv10/image63.jpg)
 
 HDMI is the only option. The software will automatically add a channel for that source.
 
@@ -128,7 +128,7 @@ HDMI is the only option. The software will automatically add a channel for that 
 
 Select **Retro Game Console/VCR** for any older devices with no HDMI input.
 
-![](/images/wintv10/image51.jpg)
+![](/hcwdocs/images/wintv10/image51.jpg)
 
 Please select the input that you want Composite, S-Video, Component, or HDMI. Also select the audio type. If you don't need an input, please uncheck it.
 
@@ -138,8 +138,9 @@ Please select the input that you want Composite, S-Video, Component, or HDMI. Al
 
 Select **PC** if you want to capture from your computer
 
-![](/images/wintv10/image68.jpg)
+![](/hcwdocs/images/wintv10/image68.jpg)
 
 HDMI is the only option to capture from a computer. The software will automatically add a channel for that source.
 
 Click **Next** on any of the windows to finish the setup.
+

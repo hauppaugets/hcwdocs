@@ -6,7 +6,7 @@ sidebar:
 
 The Device Setup Wizard will launch the first time you open WinTV 10.
 
-![](/images/wintv10/image62.jpg)
+![](/hcwdocs/images/wintv10/image62.jpg)
 
 The available options are dependent on the WinTV product.
 
@@ -34,13 +34,13 @@ If you need to re-run the Device Setup Wizard please go to the [Devices](/hcwdoc
 
 Before scanning, you should make sure that your terrestrial antenna is connected to the TV tuner.
 
-![](/images/wintv10/image28.jpg)
+![](/hcwdocs/images/wintv10/image28.jpg)
 
 If you know the range of possible ATSC channels in your area, you can reduce the scanning time by editing the fields "Scan Start Channel" and "Scan End Channel".
 
 Click **Next** to start the channel search.
 
-![](/images/wintv10/image21.jpg)
+![](/hcwdocs/images/wintv10/image21.jpg)
 
 As TV channels are found, they will appear in the Channel box. When complete, click **Next** to save the channels to the database.
 
@@ -58,7 +58,7 @@ Before scanning, you should make sure that your digital cable TV feed is connect
 
 Clear QAM digital cable TV channels are those TV channels broadcast on a digital cable network which are unencrypted (‘free to view’).
 
-![](/images/wintv10/image25.jpg)
+![](/hcwdocs/images/wintv10/image25.jpg)
 
 For most cable TV providers the "Frequencies" option should be set to "Default Cable Frequencies" (as is by default).
 
@@ -66,7 +66,7 @@ If you know the range of possible QAM channels at your location, you can reduce 
 
 Click **Next** to start the channel search.
 
-![](/images/wintv10/image31.jpg)
+![](/hcwdocs/images/wintv10/image31.jpg)
 
 As TV channels are found, they will appear in the Channel box. QAM channels which are detected but are encrypted are automatically not selected.
 
@@ -82,7 +82,7 @@ In case not all channels are found, you can try the following:
 
 Before scanning you should make sure that the cable TV or the antenna is connected to the TV tuner.
 
-![](/images/wintv10/image34.jpg)
+![](/hcwdocs/images/wintv10/image34.jpg)
 
 #### Please select the country and tuning settings
 
@@ -102,7 +102,7 @@ Before scanning you should make sure that the cable TV or the antenna is connect
 
 Select scan for channels to automatically finds channels.
 
-![](/images/wintv10/image33.jpg)
+![](/hcwdocs/images/wintv10/image33.jpg)
 
 As TV channels are found, they will appear in the Channel box. When finished, click **Next** to save the channels to the database.
 
@@ -116,7 +116,7 @@ Enter the channel number into the "Number" field, and a channel name into the "N
 
 When done, click **Next** to save the channels to the database.
 
-![](/images/wintv10/image23.jpg)
+![](/hcwdocs/images/wintv10/image23.jpg)
 
 ## Channel Search for Analog TV via Set Top Box
 
@@ -124,7 +124,7 @@ When done, click **Next** to save the channels to the database.
 
 Before scanning you should make sure that your Set Top Box is connected to TV Tuner or A/V connector of your WinTV product.
 
-![](/images/wintv10/image13.jpg)
+![](/hcwdocs/images/wintv10/image13.jpg)
 
 **Country**: Select your country.
 
@@ -144,16 +144,18 @@ Click **Next**.
 
 Useful when not in the USA. You can add a range of channels to match with your Set Top Box.
 
-![](/images/wintv10/image13.jpg)
+![](/hcwdocs/images/wintv10/image13.jpg)
 
 In this example channels 2-100 will be added. Click **Next**.
 
-![](/images/wintv10/image19.jpg)
+![](/hcwdocs/images/wintv10/image19.jpg)
 
 Channels will be added automatically, click **Next** to save the channels to the database.
 
 #### Manual Entry
 
-![](/images/wintv10/image5.jpg)
+![](/hcwdocs/images/wintv10/image5.jpg)
 
 If you know the specific channels you want to add, add them manually. Type the number and name and click add. Click **Next** to save the channels to the database.
+
+

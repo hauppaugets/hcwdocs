@@ -4,7 +4,7 @@
     order: 1
 ---
 
-<!--![](/images/wintv10/image54.png)-->
+<!--![](/hcwdocs/images/wintv10/image54.png)-->
 
 
 
@@ -18,39 +18,39 @@ The majority of options can be selected by clicking on the **left-hand** mouse b
 
 ### Control Buttons
 
-**WinTV Settings** &nbsp; ![](/images/wintv10/image49.png) Clicking this button will open the [WinTV Settings](./settings#wintv-settings) dialog.
+**WinTV Settings** &nbsp; ![](/hcwdocs/images/wintv10/image49.png) Clicking this button will open the [WinTV Settings](./settings#wintv-settings) dialog.
 
-**On-Screen Display** ![](/images/wintv10/image16.png) Clicking this button will display channel information.
+**On-Screen Display** ![](/hcwdocs/images/wintv10/image16.png) Clicking this button will display channel information.
 
-**Open File for Playback** ![](/images/wintv10/image50.png) Click this button to open a previously recorded file for playback.
+**Open File for Playback** ![](/hcwdocs/images/wintv10/image50.png) Click this button to open a previously recorded file for playback.
 
-**Snapshot** ![](/images/wintv10/image20.png) Click the Snapshot button to save a still image of the currently displayed TV/video.
+**Snapshot** ![](/hcwdocs/images/wintv10/image20.png) Click the Snapshot button to save a still image of the currently displayed TV/video.
 
-**Start Live TV** ![](/images/wintv10/image11.png) Click the TV button to watch Live TV.
+**Start Live TV** ![](/hcwdocs/images/wintv10/image11.png) Click the TV button to watch Live TV.
 
-**Closed Caption** ![](/images/wintv10/image42.png) Click to toggle closed caption on or off.
+**Closed Caption** ![](/hcwdocs/images/wintv10/image42.png) Click to toggle closed caption on or off.
 
-**TV Guide** ![](/images/wintv10/image6.png) Click to open the TV Guide Menu (Only available for ATSC signals in North America)
+**TV Guide** ![](/hcwdocs/images/wintv10/image6.png) Click to open the TV Guide Menu (Only available for ATSC signals in North America)
 
-**Context Menu** ![](/images/wintv10/image58.png) Click to open the open the [Menu](./context-menu#context-menu)
+**Context Menu** ![](/hcwdocs/images/wintv10/image58.png) Click to open the open the [Menu](./context-menu#context-menu)
 
-**Start Recording** &nbsp;![](/images/wintv10/image78.png) Starts recording the currently watched channel.
+**Start Recording** &nbsp;![](/hcwdocs/images/wintv10/image78.png) Starts recording the currently watched channel.
 
-**Terminate Recording / Exit Live TV** ![](/images/wintv10/image27.png) Click this button to exit a recording, or to exit Live TV mode.
+**Terminate Recording / Exit Live TV** ![](/hcwdocs/images/wintv10/image27.png) Click this button to exit a recording, or to exit Live TV mode.
 
-**Pause Live TV / Change Playback Position** ![](/images/wintv10/image94.png) The big button in the middle pauses Live TV. Click the same button again to continue Live TV. The other buttons do: rewind back 60 seconds, rewind back 10 seconds, skip forward 30 seconds, and skip forward 60 seconds.
+**Pause Live TV / Change Playback Position** ![](/hcwdocs/images/wintv10/image94.png) The big button in the middle pauses Live TV. Click the same button again to continue Live TV. The other buttons do: rewind back 60 seconds, rewind back 10 seconds, skip forward 30 seconds, and skip forward 60 seconds.
 
-**Change Channe**l ![](/images/wintv10/image97.png)![](/images/wintv10/image85.png) Click the Channel Up or Channel Down button to change channel.
+**Change Channe**l ![](/hcwdocs/images/wintv10/image97.png)![](/hcwdocs/images/wintv10/image85.png) Click the Channel Up or Channel Down button to change channel.
 
-**Mute Audio** ![](/images/wintv10/image48.png)This button allows you to turn the sound on or off.
+**Mute Audio** ![](/hcwdocs/images/wintv10/image48.png)This button allows you to turn the sound on or off.
 
-**Change Audio Volume** ![](/images/wintv10/image4.png)Use this slider bar to change the audio volume.
+**Change Audio Volume** ![](/hcwdocs/images/wintv10/image4.png)Use this slider bar to change the audio volume.
 
-**Pause Buffer Indicato**r ![](/images/wintv10/image81.png)The white bar below the TV window shows how much the pause buffer is filled with content. The bar grows with time. You can click your mouse button on the white bar to directly jump to a certain position in the pause buffer. The timer will show how far back the video is from Live TV. 
+**Pause Buffer Indicato**r ![](/hcwdocs/images/wintv10/image81.png)The white bar below the TV window shows how much the pause buffer is filled with content. The bar grows with time. You can click your mouse button on the white bar to directly jump to a certain position in the pause buffer. The timer will show how far back the video is from Live TV. 
 
 ### Minimize Application Window, Enter Full Screen Mode, Exit Application
 
-![](/images/wintv10/image55.png)
+![](/hcwdocs/images/wintv10/image55.png)
 
 - Click on the minimize button to minimize the WinTV application to the task bar. (Click on the WinTV icon in the task bar to maximize.)
 
@@ -61,3 +61,5 @@ The majority of options can be selected by clicking on the **left-hand** mouse b
 ### Resize Application Window
 
 To set the WinTV window size, hold down the left mouse button when it's over the lower right corner of the WinTV window, drag it to the preferred size, and then release the mouse button. You can set different sizes for the normal view and No-Title mode.
+
+

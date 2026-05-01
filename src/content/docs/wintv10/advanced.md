@@ -97,3 +97,5 @@ It is recommended to create a new WinTV10 icon and add the command line paramete
    "C:\Program Files\WinTV\WinTV10\WinTV10.exe" -multi
 
 Now, each time you double click on the new icon, a new WinTV10 window will be opened.
+
+

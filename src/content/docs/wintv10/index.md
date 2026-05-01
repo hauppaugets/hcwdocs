@@ -10,7 +10,7 @@
 
 ## WinTV10 Main Window
 
-![](/images/wintv10/image93.jpg)
+![](/hcwdocs/images/wintv10/image93.jpg)
 
 ### Fundamental Operation
 

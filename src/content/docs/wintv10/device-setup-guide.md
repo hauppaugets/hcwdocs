@@ -24,9 +24,9 @@ The available options are dependent on the WinTV product.
 
 You can select one or multiple selections if your product is capable of multiple inputs.
 
-If you have a HD PVR 2 or Colossus device, please go to [HD Capture Devices](/wintv10/external-inputs#hd-pvr-2-and-colossus-2)
+If you have a HD PVR 2 or Colossus device, please go to [HD Capture Devices](/hcwdocs/wintv10/external-inputs#hd-pvr-2-and-colossus-2)
 
-If you need to re-run the Device Setup Wizard please go to the [Devices](./settings.md/#settings--devices) menu in WinTV Settings.
+If you need to re-run the Device Setup Wizard please go to the [Devices](/hcwdocs/wintv10/settings#settings--devices) menu in WinTV Settings.
 
 ## Scanning for ATSC Channels (Digital over-the-air TV, North America)
 
